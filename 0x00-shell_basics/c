@@ -1,0 +1,9 @@
+#!/bin/bash >> 0x00-shell_basics/
+User@DESKTOP-GOEKCCV MINGW64 ~
+$ ssh fe814ade570b@fe814ade570b.e9c43f66.alx-cod.online
+fe814ade570b@fe814ade570b.e9c43f66.alx-cod.online's password:
+root@fe814ade570b:/# cd alx-system_engineering-devops/
+bash: cd: alx-system_engineering-devops/: No such file or directory
+root@fe814ade570b:/# cd root
+root@fe814ade570b:~# cd alx-system_engineering-devops
+root@fe814ade570b:~/alx-system_engineering-devops# echo '#!/bin/bash'
